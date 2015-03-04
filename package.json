@@ -1,0 +1,19 @@
+{
+  "name": "aws-status-rss",
+  "version": "0.0.1",
+  "description": "",
+  "main": "aws-status.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:withgod/aws-status-rss.git"
+  },
+  "author": "withgod <noname@withgod.jp>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/withgod/aws-status-rss/issues"
+  },
+  "homepage": "https://github.com/withgod/aws-status-rss"
+}
